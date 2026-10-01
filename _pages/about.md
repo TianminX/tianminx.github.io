@@ -36,6 +36,11 @@ latest_posts:
       max-width: 220px;
       margin-right: 2rem;
     }
+
+    /* keep all text in the column beside the photo instead of wrapping under it */
+    .post article > .clearfix {
+      display: flow-root;
+    }
   }
 
   .profile img {
