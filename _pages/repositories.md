@@ -27,11 +27,9 @@ Code that accompanies my papers. For all of my public repositories, see my [GitH
 
 <div class="software-grid">
   <article class="software-card">
-    <h3>Open Set Conformal Classification</h3>
+    <h3>Open-Set Conformal Classification</h3>
     <p>
-      Reference implementation of conformal prediction sets for classification with rare and previously unseen labels. It includes conformal tests for
-      new classes inspired by the Good Turing estimator, selective sample splitting with reweighting, and scripts to reproduce the simulations and the
-      CelebA experiments.
+      Python implementation and experiment code for conformal prediction sets in open-set and imbalanced classification.
     </p>
     <div class="software-tags"><span>Python</span><span>Jupyter</span><span>Conformal inference</span></div>
     <div class="software-links">
@@ -43,8 +41,7 @@ Code that accompanies my papers. For all of my public repositories, see my [GitH
   <article class="software-card">
     <h3>Structured Conformal Inference for Matrix Completion</h3>
     <p>
-      Code for building joint confidence regions for groups of missing entries in matrix completion, with experiments on group recommender systems using
-      MovieLens data. The repository is hosted on Ziyi Liang's GitHub.
+      Python package and experiment code for constructing joint prediction regions in matrix-completion and group-recommender settings.
     </p>
     <div class="software-tags"><span>Python</span><span>Jupyter</span><span>Matrix completion</span></div>
     <div class="software-links">

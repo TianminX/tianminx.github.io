@@ -147,7 +147,7 @@ latest_posts:
 
 Welcome to my homepage! I am a Ph.D. student in Statistics in the [Department of Data Sciences and Operations](https://www.marshall.usc.edu/departments/data-sciences-and-operations) at the [USC Marshall School of Business](https://www.marshall.usc.edu/), where I am advised by Professor [Matteo Sesia](https://msesia.github.io/).
 
-Before coming to USC, I studied mathematics at the [University of Cambridge](https://www.cam.ac.uk/), where I received my B.A. and my Master of Mathematics (Part III). My Part III essay on modern changepoint analysis was supervised by Professor [Richard J. Samworth](https://www.statslab.cam.ac.uk/~rjs57/).
+Before coming to USC, I studied mathematics at the [University of Cambridge](https://www.cam.ac.uk/), where I received my bachelor's degree and Master of Mathematics (Part III).
 
 ---
 
