@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <nav class="profile-links" aria-label="Professional profiles">
-      <a href="/assets/pdf/Tianmin_Xie_CV.pdf" target="_blank"><i class="ai ai-cv"></i><span>CV</span></a>
+      <a href="/assets/pdf/Tianmin_Xie_CV.pdf" target="_blank"><i class="fa-solid fa-file-lines"></i><span>CV</span></a>
       <a href="https://scholar.google.com/citations?user=jz9CqnoAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i><span>Google Scholar</span></a>
       <a href="mailto:Tianmin.Xie@marshall.usc.edu"><i class="fa-solid fa-envelope"></i><span>Email</span></a>
       <a href="https://github.com/TianminX" target="_blank"><i class="fa-brands fa-github"></i><span>GitHub</span></a>
